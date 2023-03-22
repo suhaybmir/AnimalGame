@@ -1,0 +1,363 @@
+[
+    {
+      "name": "lion",
+      "class": "mammal",
+      "dangerLevel": 5,
+      "foodDiet": "carnivore",
+      "habitat": "savannah",
+      "speciesCount": "not close to extinction",
+      "imageUrl": "https://source.unsplash.com/300x200/?lion",
+      "additionalClues": [
+        "This animal's social structure is unique among big cats.",
+        "The males of this species have a mane that grows darker as they age.",
+        "This animal's roar can be heard from as far as 5 miles away.",
+        "Some populations of this animal are known to climb trees."
+      ]
+    },
+    {
+      "name": "tiger",
+      "class": "mammal",
+      "dangerLevel": 5,
+      "foodDiet": "carnivore",
+      "habitat": "forest",
+      "speciesCount": "close to extinction",
+      "imageUrl": "https://source.unsplash.com/300x200/?tiger",
+      "additionalClues": [
+        "This animal has the largest canine teeth of any big cat, which can reach up to 4 inches in length.",
+        "Unlike most other big cats, this species is a strong swimmer and enjoys being in water.",
+        "The stripes on this animal's coat are unique to each individual, much like human fingerprints.",
+        "This animal's fur color can vary, with white and golden variations occurring in the wild."
+      ]
+    },
+    {
+      "name": "elephant",
+      "class": "mammal",
+      "dangerLevel": 4,
+      "foodDiet": "herbivore",
+      "habitat": "savannah",
+      "speciesCount": "not close to extinction",
+      "imageUrl": "https://source.unsplash.com/300x200/?elephant",
+      "additionalClues": [
+        "This animal has a highly developed brain and exhibits complex problem-solving abilities.",
+        "The pregnancy of this animal lasts approximately 22 months, which is the longest known gestation period of any land animal.",
+        "This animal's tusks are actually elongated incisor teeth that continue to grow throughout its life.",
+        "This species communicates using low-frequency sounds that can travel long distances."
+      ]
+    },
+    {
+      "name": "giraffe",
+      "class": "mammal",
+      "dangerLevel": 2,
+      "foodDiet": "herbivore",
+      "habitat": "savannah",
+      "speciesCount": "not close to extinction",
+      "imageUrl": "https://source.unsplash.com/300x200/?giraffe",
+      "additionalClues": [
+        "This animal has the same number of neck vertebrae as humans, but each vertebra is much larger.",
+        "The long neck of this species helps it to reach high branches for browsing on leaves, and also to spot predators from a distance.",
+        "The tongue of this animal can be up to 18 inches long and is blueish-purple in color.",
+        "This animal's heart can weigh up to 25 pounds and needs to generate twice the blood pressure of other mammals to pump blood up its long neck."
+      ]
+    },
+    {
+      "name": "zebra",
+      "class": "mammal",
+      "dangerLevel": 2,
+      "foodDiet": "herbivore",
+      "habitat": "savannah",
+      "speciesCount": "not close to extinction",
+      "imageUrl": "https://source.unsplash.com/300x200/?zebra",
+      "additionalClues": [
+        "The black and white stripes on this animal's coat are thought to help deter biting insects.",
+        "This animal's stripes may also serve as a form of camouflage, making it difficult for predators to single out individuals from a group.",
+        "Despite their appearance, this animal is actually more closely related to the wild ass than the horse.",
+        "When threatened, this animal can deliver powerful kicks to defend itself against predators."
+      ]
+    },
+    {
+      "name": "crocodile",
+      "class": "reptile",
+      "dangerLevel": 5,
+      "foodDiet": "carnivore",
+      "habitat": "river",
+      "speciesCount": "not close to extinction",
+      "imageUrl": "https://source.unsplash.com/300x200/?crocodile",
+      "additionalClues": [
+        "This animal can replace each of its 80 teeth up to 50 times in its lifetime.",
+        "This reptile is known for its 'death roll,' a spinning maneuver used to subdue and dismember prey.",
+        "This animal's eyes, ears, and nostrils are located on the top of its head, allowing it to remain mostly submerged while stalking prey.",
+        "Despite their large size, this species can launch themselves out of the water using their powerful tail."
+      ]
+    },
+    {
+      "name": "kangaroo",
+      "class": "mammal",
+      "dangerLevel": 2,
+      "foodDiet": "herbivore",
+      "habitat": "grassland",
+      "speciesCount": "not close to extinction",
+      "imageUrl": "https://source.unsplash.com/300x200/?kangaroo",
+      "additionalClues": [
+        "This animal is known for its powerful hind legs and distinctive hopping locomotion.",
+        "Females of this species have a pouch in which they carry and nurse their young.",
+        "This animal can cover large distances with minimal energy expenditure due to the elastic tendons in their legs.",
+        "Males of this species will sometimes engage in 'boxing' matches to establish dominance or compete for mates."
+      ]
+    },
+    {
+      "name": "polar bear",
+      "class": "mammal",
+      "dangerLevel": 5,
+      "foodDiet": "carnivore",
+      "habitat": "arctic",
+      "speciesCount": "close to extinction",
+      "imageUrl": "https://source.unsplash.com/300x200/?polar-bear",
+      "additionalClues": [
+        "Its liver contains toxic levels of vitamin A, which can be fatal if consumed by humans.",
+        "It has black skin to absorb heat more efficiently from the sun.",
+        "Despite being a marine mammal, it is classified under the same family as the brown bear.",
+        "Its scientific name, Ursus maritimus, means 'sea bear'."
+      ]
+    },
+    {
+      "name": "penguin",
+      "class": "bird",
+      "dangerLevel": 1,
+      "foodDiet": "carnivore",
+      "habitat": "antarctica",
+      "speciesCount": "not close to extinction",
+      "imageUrl": "https://source.unsplash.com/300x200/?penguin",
+      "additionalClues": [
+        "This animal is primarily found in the Southern Hemisphere, with only one species found near the equator.",
+        "This bird is flightless, but it is an excellent swimmer and can reach impressive speeds underwater.",
+        "Some species of this animal are known to make long treks across the ice to reach their breeding grounds.",
+        "The male of this species incubates the egg while the female goes to find food, sometimes traveling hundreds of miles."
+      ]
+    },
+    {
+        "name": "dolphin",
+        "class": "mammal",
+        "dangerLevel": 1,
+        "foodDiet": "carnivore",
+        "habitat": "ocean",
+        "speciesCount": "not close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?dolphin",
+        "additionalClues": [
+          "This creature is hunted for tradition brutally in some parts of the world.",
+          "It sleeps with one eye open and half of its brain remains active to maintain vital functions.",
+          "They have been observed to engage in cooperative hunting strategies to catch fish.",
+          "There are almost 40 different species, and they can be found in both saltwater and freshwater environments."
+        ]
+      },
+      {
+        "name": "shark",
+        "class": "fish",
+        "dangerLevel": 5,
+        "foodDiet": "carnivore",
+        "habitat": "ocean",
+        "speciesCount": "not close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?shark",
+        "additionalClues": [
+          "This animal has a unique, cartilaginous skeleton instead of one made of bone.",
+          "Some species of this animal can lose and regrow thousands of teeth over their lifetime.",
+          "This animal has an incredible sense of smell, being able to detect tiny amounts of blood from miles away.",
+          "Some species of this animal can go into a state of tonic immobility when flipped upside down, which is used by researchers to handle them safely."
+        ]
+      },
+      {
+        "name": "gorilla",
+        "class": "mammal",
+        "dangerLevel": 3,
+        "foodDiet": "herbivore",
+        "habitat": "forest",
+        "speciesCount": "close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?gorilla",
+        "additionalClues": [
+          "It shares approximately 98% of its DNA with humans.",
+          "The males are the biggest 'alpha-males' in the entire world",
+          "There are two species, the Eastern and the Western, which are further divided into four subspecies.",
+          "It is known to use tools in the wild, such as sticks for extracting termites from their mounds."
+        ]
+      },
+      {
+        "name": "rhinoceros",
+        "class": "mammal",
+        "dangerLevel": 4,
+        "foodDiet": "herbivore",
+        "habitat": "grassland",
+        "speciesCount": "close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?rhinoceros",
+        "additionalClues": [
+          "It has limited turn rate.",
+          "There are five species, and three of them are native to Southern Asia.",
+          "You could probably outrun it running in a ZigZag direction.",
+          "The white species is the largest of the five and can weigh over 2,300 kg (5,000 lbs)."
+        ]
+      },
+      {
+        "name": "hippopotamus",
+        "class": "mammal",
+        "dangerLevel": 4,
+        "foodDiet": "herbivore",
+        "habitat": "river",
+        "speciesCount": "not close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?hippopotamus",
+        "additionalClues": [
+          "It secretes a red fluid from its skin that acts as a natural sunscreen and antimicrobial.",
+          "Despite its size and weight, it can reach speeds of up to 30 km/h (19 mph) on land.",
+          "Its closest living relatives are cetaceans, such as whales and dolphins.",
+          "The name means 'river horse' in ancient Greek."
+        ]
+      },
+      {
+        "name": "cheetah",
+        "class": "mammal",
+        "dangerLevel": 3,
+        "foodDiet": "carnivore",
+        "habitat": "savannah",
+        "speciesCount": "close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?cheetah",
+        "additionalClues": [
+          "It is the only big cat that cannot fully retract its claws.",
+          "They don't roar, they meow.",
+          "Its tear marks help to reduce glare and improve its vision during hunts.",
+          "It has a highly specialized respiratory system to allow for rapid oxygen intake during sprints."
+        ]
+      },
+      {
+        "name": "jaguar",
+        "class": "mammal",
+        "dangerLevel": 4,
+        "foodDiet": "carnivore",
+        "habitat": "forest",
+        "speciesCount": "not close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?jaguar",
+        "additionalClues": [
+          "It has the strongest bite force relative to its size among big cats.",
+          "Unlike other big cats, it often kills its prey by piercing the skull with its powerful jaws.",
+          "Its name is derived from a Native American, which means 'he who kills with one leap.'",
+          "It is an excellent swimmer and often hunts in the water."
+        ]
+      },
+      {
+        "name": "koala",
+        "class": "mammal",
+        "dangerLevel": 1,
+        "foodDiet": "herbivore",
+        "habitat": "forest",
+        "speciesCount": "not close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?koala",
+        "additionalClues": [
+          "It has a specialized digestive system called a 'hindgut fermenter' to break down the eucalyptus leaves it consumes.",
+          "Despite its nickname, it is not a bear but a marsupial.",
+          "It has a unique vocal organ that allows it to produce low-frequency mating calls.",
+          "Its fingerprints are remarkably similar to human fingerprints."
+        ]
+      },
+      {
+        "name": "panda",
+        "class": "mammal",
+        "dangerLevel": 1,
+        "foodDiet": "herbivore",
+        "habitat": "forest",
+        "speciesCount": "close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?panda",
+        "additionalClues": [
+          "It has a modified wrist bone called a 'pseudothumb' that helps it grip bamboo stalks.",
+          "Despite being classified as a carnivore (the species is), its diet consists almost entirely of bamboo.",
+          "It has a unique reproductive cycle, with a very short window of just a few days each year for successful mating.",
+          "Its coloration may help with temperature regulation or camouflage."
+        ]
+      },  
+      {
+        "name": "wolf",
+        "class": "mammal",
+        "dangerLevel": 4,
+        "foodDiet": "carnivore",
+        "habitat": "forest",
+        "speciesCount": "not close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?wolf",
+        "additionalClues": [
+          "It is one of the most adaptable predators, capable of surviving in various environments from Arctic tundra to desert.",
+          "Its complex social structure is based on a strict hierarchy within the pack, led by an alpha pair.",
+          "It communicates through a combination of vocalizations, body language, and scent marking.",
+          "It has been known to travel long distances, up to 200 miles in a day, in search of prey."
+        ]
+      },
+      {
+        "name": "sloth",
+        "class": "mammal",
+        "dangerLevel": 1,
+        "foodDiet": "herbivore",
+        "habitat": "forest",
+        "speciesCount": "not close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?sloth",
+        "additionalClues": [
+          "Its slow metabolism allows it to survive on a low-energy diet of leaves.",
+          "A unique network of blood vessels in its head prevents blood from pooling when it's inverted.",
+          "It has a symbiotic relationship with algae that grow on its fur, providing camouflage.",
+          "Its long, curved claws are adapted for gripping branches and climbing trees."
+        ]
+      },
+      {
+        "name": "orangutan",
+        "class": "mammal",
+        "dangerLevel": 2,
+        "foodDiet": "herbivore",
+        "habitat": "forest",
+        "speciesCount": "close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?orangutan",
+        "additionalClues": [
+          "It is the largest arboreal mammal and spends most of its life in trees.",
+          "It has a high level of problem-solving intelligence and has been known to use tools in the wild.",
+          "Males develop large cheek pads called 'flanges' as they mature, which may be a sign of dominance.",
+          "Its name means 'person of the forest' in Malay."
+        ]
+      },
+      {
+        "name": "chimpanzee",
+        "class": "mammal",
+        "dangerLevel": 2,
+        "foodDiet": "omnivore",
+        "habitat": "forest",
+        "speciesCount": "not close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?chimpanzee",
+        "additionalClues": [
+          "Despite it weighing less than an average adult-sized human, it is about 1.35 times stronger than us.",
+          "It has a complex social structure, with communities consisting of multiple smaller groups called 'sub-units'.",
+          "It is capable of using tools, such as sticks to extract termites from mounds, and has been observed using medicinal plants.",
+          "It communicates through a variety of vocalizations, gestures, and facial expressions."
+        ]
+      },
+      {
+        "name": "octopus",
+        "class": "mollusk",
+        "dangerLevel": 2,
+        "foodDiet": "carnivore",
+        "habitat": "ocean",
+        "speciesCount": "not close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?octopus",
+        "additionalClues": [
+          "This animal has three hearts and its blood is blue in color.",
+          "Most species of this animal can change their skin color and texture to blend into their surroundings.",
+          "This animal is known for its intelligence, including problem-solving and escape artist abilities.",
+          "The female of this species often dies after laying eggs, as she spends her remaining energy caring for and protecting them."
+        ]
+       },
+       {
+        "name": "platypus",
+        "class": "mammal",
+        "dangerLevel": 1,
+        "foodDiet": "carnivore",
+        "habitat": "freshwater",
+        "speciesCount": "not close to extinction",
+        "imageUrl": "https://source.unsplash.com/300x200/?platypus",
+        "additionalClues": [
+          "This animal is one of the few mammals that lay eggs.",
+          "This species has a unique bill that is covered in skin, with a highly sensitive electroreceptive system.",
+          "The male of this species has venomous spurs on its hind legs that can deliver a painful sting.",
+          "This animal is endemic to eastern Australia and Tasmania, inhabiting freshwater environments."
+        ]
+       }
+
+    ]
